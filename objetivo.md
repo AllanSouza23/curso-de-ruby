@@ -1,0 +1,1 @@
+Este repositório tem como objetivo estudar e aplicar recursos da linguagem Ruby, desde o início, baseado no curso de Ruby Puro desenvolvido pelo canal OneBitCode: 'https://www.youtube.com/watch?v=2js9Q_BMD-8&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ' e 'https://onebitcode.com/course/ruby-puro/'
